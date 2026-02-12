@@ -1,3 +1,4 @@
 # basebuild
 buildbase
 buildbase
+gobase
