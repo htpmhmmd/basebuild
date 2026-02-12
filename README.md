@@ -3,3 +3,4 @@ buildbase
 buildbase
 gobase
 realbase
+chainbase
